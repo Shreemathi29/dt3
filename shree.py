@@ -5,4 +5,4 @@ b = 65
 c = a-b
 print (value of c)
 
-print(yes)
+print(no)
