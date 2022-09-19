@@ -1,6 +1,6 @@
-a = 10
+a = 50
 
 
-b = 55
+b = 65
 c = a-b
 print (value of c)
